@@ -3,6 +3,9 @@
 Welcome to Fitness360! This React-based web application is your ultimate destination for a variety of workout routines, each accompanied by YouTube video links for clear, visual guidance. Whether you're a fitness enthusiast or a beginner, Fitness360 provides targeted exercise recommendations for different body parts. You can experience the app live at [https://fitness360.netlify.com](https://fitness360.netlify.com).
 
 ![Fitness360 Screenshot](./src/assets/images/screenshot.png)
+![Fitness360 Screenshot](./src/assets/images/screenshot2.png)
+![Fitness360 Screenshot](./src/assets/images/screenshot3.png)
+
 
 ## Table of Contents
 
@@ -41,13 +44,13 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/fitness360-react-app.git
+    git clone https://github.com/Abdul-Samad-01/fitness360-react-app.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd fitness360-react-app
+    cd fitness360
     ```
 
 3. **Install dependencies:**
